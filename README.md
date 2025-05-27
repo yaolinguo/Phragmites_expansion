@@ -1,6 +1,6 @@
 ## Repository Overview
 
-The documents in this repository provide the **R scripts** used for analyzing spatial-temporal expansion patterns of *Phragmites australis* populations across coastal basins in Louisiana, including their interactions with key environmental drivers and native vegetation dynamics.
+The documents in this repository provide the **R scripts** used for analyzing spatiotemporal expansion patterns of *Phragmites australis* populations across coastal basins in Louisiana, including their interactions with key environmental drivers and native vegetation dynamics.
 
 For comprehensive results and methodological details, please refer to our study titled:
 
