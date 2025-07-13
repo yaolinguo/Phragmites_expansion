@@ -1,42 +1,9 @@
 ## Repository Overview
 
-# Meta-analysis: Latitudinal Herbivory Gradients in Native and Non-native Plants
+The documents in this repository provide the **R scripts** used for analyzing spatiotemporal expansion patterns of *Phragmites australis* populations across coastal basins in Louisiana, including their interactions with key environmental drivers and native vegetation dynamics.
 
-This repository contains all R code, data, and supplementary files for the study:
+For comprehensive results and methodological details, please refer to our study titled:
 
-> **"Herbivory increases towards lower latitudes in native but not introduced plants"**  
-> Yaolin Guo, Rui-Ting Ju*, Madalin Parepa, Hui Wang, Min Wang, Jinan Lu, Jihua Wu, Bo Li, Oliver Bossdorf  
-> *Corresponding author: Rui-Ting Ju (jurt@fudan.edu.cn)
+> **"Expansion trends of *Phragmites australis* and its impact on the Louisiana Gulf Coast."**
 
-## 🔗 Supplementary Materials Website
-
-A browsable, formatted version of the supplementary material (including figures and interactive tables) is available at:
-
-👉 https://yaolinguo.github.io/latitudinal_gradient_in_herbivory/
-
----
-
-## 📂 Repository Structure
-
-```text
-.
-├── data/
-│   ├── meta_analysis_dataset.csv         # Source data used to calculate all herbivory effect sizes
-│   ├── Eligibility_Workbook.csv          # Table documenting inclusion/exclusion decisions
-│   └── Outcome.descriptions.csv          # Table describing herbivory metrics across studies
-├── figures/
-│   ├── ForestPlot_large.pdf              # High-resolution version of the forest plot (Fig. 2b)
-│   └── ForestPlot_large.png              # PNG version for web embedding
-├── manuscript/
-│   ├── meta_analysis_latitudinal_herbivory.rmd   # RMarkdown source of the manuscript
-│   ├── meta_analysis_latitudinal_herbivory.pdf   # Compiled manuscript (with figures/tables)
-│   ├── bibliography_meta_analysis.bib            # BibTeX citation file
-│   └── citation_style.csl                         # Citation style file (e.g., Ecology Letters)
-├── analysis/
-│   ├── meta_analysis_herbivory_latitude.rmd       # All R code for main analysis (effect size calculation, REML models)
-│   └── .R_functions/                              # Custom R functions called from the main Rmd
-├── response_to_reviewers/
-│   ├── Response_to_Reviewers.rmd
-│   └── Response_to_Reviewers.pdf
-├── index.html                          # HTML version of the full supplementary analysis (hosted online)
-└── README.md
+**Corresponding author:** Megan K. La Peyre ([mlapeyre@agcenter.lsu.edu](mailto:mlapeyre@agcenter.lsu.edu))
